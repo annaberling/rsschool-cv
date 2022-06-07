@@ -19,8 +19,7 @@
 - CSS
 - BEM
 - Git/github
-- Markdown
-
+- 
 ##  Code example:
 ```
  function ShowMessage() {
