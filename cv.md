@@ -45,4 +45,4 @@ console.log(result);
 ## Languages:
 
 - Russian - Native
-- English - A2
+- English - A1-A2
